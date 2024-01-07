@@ -13,6 +13,7 @@
 - [useModal](https://github.com/BeMatthewsong/custom-hooks/blob/main/useModal/useModal.jsx)
 - [useTabs](https://github.com/BeMatthewsong/custom-hooks/blob/main/useTabs/useTabs.jsx)
 - [usePrevious](https://github.com/BeMatthewsong/custom-hooks/blob/main/usePrevious/usePrevious.jsx)
+- [useDebounce](https://github.com/BeMatthewsong/custom-hooks/blob/main/useDebounce/useDebounce.jsx)
   
 
 ## reference
