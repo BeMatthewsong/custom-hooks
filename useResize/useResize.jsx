@@ -1,5 +1,5 @@
 // 화면의 너비와 높이를 받아오는 함수입니다. 
-// 
+
 import { useEffect, useState } from 'react';
 
 export const useResize = () => {
